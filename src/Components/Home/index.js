@@ -65,11 +65,12 @@ const Home = (props) => {
           <div>
             <div className={Styles["title3"]}>¿WHO AM I?</div>
             <div className={Styles["descwho"]}>
-              Hi I'm Franco, Argentine by birth. Now living in Portugal, in the
-              north. More precisely in Povoa de Varzim in Porto. I have
-              immediate availability to work, computer and internet connection.
-              In Argentina I studied in Argentina Program by the Chamber of
-              Commerce and Industry of Argentina.
+              Hi I'm Franco, Argentine by birth. I currently live in Portugal,
+              in the north. More precisely in Povoa de Varzim in Porto. I have
+              immediate availability to work. I studied in "Argentina Program"
+              by the Chamber of Commerce and Industry of Argentina. I've been
+              working with Javascript in React together with sass and Figma for
+              a year now.
             </div>
             <span>
               <img
