@@ -201,7 +201,7 @@ const Home = (props) => {
                 >
                   <div>Portfolio</div>
                   <img
-                    src="../../pfthis.png"
+                    src="../../portfoliomobile.png"
                     alt="Site OmnifitGym"
                     width={250}
                   ></img>
