@@ -202,7 +202,7 @@ const Home = (props) => {
                 >
                   <div>Portfolio</div>
                   <img
-                    src="../../portfoliomobile.png"
+                    src="../../pfthis.png"
                     alt="PortfolioImg"
                     width={250}
                   ></img>
