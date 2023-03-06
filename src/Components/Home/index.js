@@ -196,14 +196,14 @@ const Home = (props) => {
               </div>
               <div className={Styles["containerBoda"]}>
                 <a
-                  href="https://juliyfranco.vercel.app/"
+                  href="https://portfolio-personal-francoarriola.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
                   <div>Portfolio</div>
                   <img
                     src="../../portfoliomobile.png"
-                    alt="Site OmnifitGym"
+                    alt="PortfolioImg"
                     width={250}
                   ></img>
                 </a>
